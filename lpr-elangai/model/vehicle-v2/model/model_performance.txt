@@ -1,0 +1,7 @@
+Average Precision Per-class:
+car: 0.8372947331981855
+motorcycle: 0.5405957078488659
+truck: 0.4647269625063562
+bus: 0.41821710160268155
+
+Average Precision Across All Classes: 0.5652086262890222

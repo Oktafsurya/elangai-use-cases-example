@@ -1,0 +1,5 @@
+BACKGROUND
+car
+motorcycle
+truck
+bus
