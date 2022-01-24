@@ -1,0 +1,26 @@
+{
+ "AppName": "try-face-rekog",
+ "Param": [
+  {
+   "name": "input",
+   "type": "string",
+   "values": ["input/okta_test.mp4",
+        "input/empty_video.mp4",
+        "input/ariel_test.jpg", 
+        "input/ariel_test.png", 
+        "input/tzuyu_test_2.jpg", 
+        "input/tzuyu_test.png",
+        "input/okta_test.jpg",
+        "input/okta_test_1.jpg",
+        "input/bekti.jpg",
+        "input/resha.png",
+        "input/resha_1.jpg"],
+    "default": "input/okta_test.mp4"
+  },
+  {
+   "name": "frame_batch",
+   "type": "int",
+   "values": 1
+  }
+ ]
+}

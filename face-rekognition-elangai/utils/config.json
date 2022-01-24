@@ -1,0 +1,16 @@
+{
+ "AppName": "try-face-rekog",
+ "Param": [
+  {
+   "name": "input",
+   "type": "string",
+   "values": ["/dev/video1"],
+    "default": "/dev/video1"
+  },
+  {
+   "name": "frame_batch",
+   "type": "int",
+   "values": 1
+  }
+ ]
+}
