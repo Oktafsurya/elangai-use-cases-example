@@ -1,0 +1,20 @@
+{
+ "AppName": "disease-classification-elangai",
+ "Param": [
+  {
+   "name": "input",
+   "type": "string",
+   "values": ["input/apple.jpeg",
+        "input/corn.jpeg",
+        "input/yudhi.png",
+        "input/hadi.png",
+        "input/randitya.jpg"],
+   "default": "input/corn.jpeg"
+  },
+  {
+   "name": "frame_batch",
+   "type": "int",
+   "values": 1
+  }
+ ]
+}
